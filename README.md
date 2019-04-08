@@ -1,2 +1,3 @@
 # hello-world
-It is my "Hello World" Project just for learning
+It is my "Hello World" Project
+I study in University 
